@@ -1,0 +1,5 @@
+/Users/macbookair/Documents/team_chronos_qt/build/CMakeFiles/TEAM_CHRONOS.dir
+/Users/macbookair/Documents/team_chronos_qt/build/CMakeFiles/edit_cache.dir
+/Users/macbookair/Documents/team_chronos_qt/build/CMakeFiles/rebuild_cache.dir
+/Users/macbookair/Documents/team_chronos_qt/build/CMakeFiles/TEAM_CHRONOS_autogen_timestamp_deps.dir
+/Users/macbookair/Documents/team_chronos_qt/build/CMakeFiles/TEAM_CHRONOS_autogen.dir

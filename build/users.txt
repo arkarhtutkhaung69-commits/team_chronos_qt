@@ -1,0 +1,5 @@
+Chris|123456|Admin
+MyatMinKoKo|123456|Customer
+NaingMyoChit|123456|Customer
+SuLattKhinKhin|123456|Customer
+Watch|123456|Customer

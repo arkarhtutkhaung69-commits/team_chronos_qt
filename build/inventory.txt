@@ -1,0 +1,15 @@
+1|Rolex|Submariner|8999.99|Men|0
+2|Omega|Speedmaster|5999.00|Men|0
+3|Hugo Boss|Ocean Chronograph|249.00|Men|6
+4|Dennis Martin|Heritage Chronograph|199.00|Men|15
+5|Cartier|Tank Must|3999.00|Women|18
+6|Alexander Christie|Ladies Diamond|159.00|Women|18
+7|Fossil|Carlie|129.00|Women|25
+8|Citizen|Silhouette Crystal|249.00|Women|12
+9|Apple Watch|Ultra 2|799.00|Other|17
+10|Samsung|Galaxy Ring Titanium|399.00|Other|14
+11|Oura|Oura Ring Gen 4|349.00|Other|30
+12|Ray-Ban|Meta Smart Glasses|299.00|Other|11
+13|Humane|AI Pin Lunar Edition|499.00|Other|16
+14|Fossil|Gen 6 Smartwatch|229.00|Other|17
+15|Garmin|Fenix 8 Sapphire Solar|999.00|Other|16
